@@ -1,0 +1,2 @@
+timestamp,experiment_id,project_name,duration,emissions,energy_consumed,country_name,country_iso_code,region,on_cloud,cloud_provider,cloud_region
+2022-12-22T02:25:09,f5346311-d413-4cbc-8394-3f755dcf2b63,conv6,983.4752509593964,0.04566562406112113,0.076561604099925,Spain,ESP,valencia,N,,
